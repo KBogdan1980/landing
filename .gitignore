@@ -1,0 +1,24 @@
+.idea/
+build
+node_modules
+npm-debag.log
+.DS_Store
+### Windows template
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+#Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RESYCLE.BIN/
+
+# Windows installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shorcuts
+*.lnk
